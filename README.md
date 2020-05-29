@@ -1,6 +1,6 @@
-# opensource-check-testcases!
+# opensource-check-testcases!!!
 
-Checkout different test cases in the open source
+Checking out different test cases in the open source contribution
 
 # This one is the new feature [ADDED]
 
